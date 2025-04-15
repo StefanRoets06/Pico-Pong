@@ -1,2 +1,2 @@
 # Pico-Pong
-Pico 2 display helper script for Pico-LCD-1.14
+[Pico-LCD-1.14](https://www.waveshare.com/wiki/Pico-LCD-1.14)
