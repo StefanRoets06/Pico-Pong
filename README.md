@@ -6,7 +6,7 @@
 - [lcd_display.py](lcd_display.py)
   - Main LCD controller script
 - [main.py](main.py)
-  - Pong.py launcher
+  - Pong launcher
 - [pong.py](pong.py)
   - Minigame to test the LCD
 
